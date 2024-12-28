@@ -8,7 +8,7 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 
 ## 🚀 Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks:** React, Next.js
+- **Frameworks:** React, Next.js , ExpressJs
 - **Styling:** Tailwind CSS, SASS, Styled Components
 - **Tools:** Webpack, Vite, Git, Figma
 - **Animation:** GSAP, Three.js, Framer Motion
