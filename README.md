@@ -13,20 +13,7 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 - **Tools:** Webpack, Vite, Git, Figma
 - **Animation:** GSAP, Three.js, Framer Motion
 
----
 
-## 🌐 Featured Projects
-
-### [🌌 3D Portfolio Showcase](https://codepen.io/VoXelo/pen/YPKNbLM)
-> **Description**: A dynamic 3D portfolio site built with Three.js and GSAP, showcasing animation skills.  
-![3D Animation Preview](https://your-live-preview-gif-or-image-link.com)
-
----
-
-### [📘 Markdown Blog Generator](https://your-live-project-link.com)
-> **Description**: A blog generator built with Next.js, using MDX for content writing and Tailwind CSS for styling.
-
----
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
@@ -42,5 +29,5 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 
 ---
 
-Let me know if you'd like further customization or suggestions! This template balances a professional touch with modern frontend flair.
+
 
