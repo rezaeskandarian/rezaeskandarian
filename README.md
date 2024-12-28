@@ -37,7 +37,7 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
 
 #### Coding Activity (via Wakatime):
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rezaeskandarian&theme=radical)
 
 ## 🔗 Connect With Me
 - 🌐 [Portfolio](https://your-portfolio-link.com)
