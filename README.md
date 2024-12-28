@@ -21,6 +21,10 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaeskandarian&theme=radical)
 
 ---
+### 🌐 Most Used Languages:
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
+
+---
 
 ## 🔗 Connect With Me
 - 🌐 [Portfolio](https://your-portfolio-link.com)
