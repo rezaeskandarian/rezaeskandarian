@@ -16,9 +16,9 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaeskandarian&show_icons=true&theme=radical)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaeskandarian&theme=radical)
 
 ---
 
