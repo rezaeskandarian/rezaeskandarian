@@ -18,7 +18,6 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezaeskandarian&show_icons=true&theme=radical)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaeskandarian&theme=radical)
 
@@ -28,17 +27,6 @@ I am a **Frontend Developer** passionate about crafting visually appealing and i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
 
 ---
-
-### 📈 GitHub Charts:
-#### Contributions Heatmap:
-![Contributions Heatmap](https://github-contributions.vercel.app/api/v1/rezaeskandarian)
-
-#### Language Breakdown:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
-
-#### Coding Activity (via Wakatime):
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rezaeskandarian&theme=radical)
-
 ## 🔗 Connect With Me
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
