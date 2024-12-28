@@ -4,6 +4,8 @@
 
 I am a **Frontend Developer** with a passion for creating seamless, visually appealing, and user-focused web applications. With expertise in modern frontend technologies, I specialize in building dynamic interfaces and delivering responsive, high-performance solutions.
 
+![Alt Text]([https://github.com/your-username/your-repo-name/blob/main/your-gif-file.gif](https://github.com/rezaeskandarian/rezaeskandarian/blob/main/programmer.mp4))
+
 ---
 
 ## 🚀 Tech Stack
