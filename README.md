@@ -42,7 +42,7 @@ I am a **Frontend Developer** with a passion for creating seamless, visually app
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🐦 [Twitter](https://twitter.com/your-profile)
-
+[Cyrus](app.logomakr.com/2DsqHD)
 ---
 
 Feel free to check out my repositories and connect with me for collaboration or to discuss exciting opportunities!
