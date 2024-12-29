@@ -7,14 +7,28 @@ I am a **Frontend Developer** with a passion for creating seamless, visually app
 
 ---
 
-## 🚀 Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks:** React, Next.js , ExpressJs
-- **Styling:** Tailwind CSS, SASS, Styled Components
-- **Tools:** Webpack, Vite, Git, Figma
-- **Animation:** GSAP, Three.js, Framer Motion
+## 🚀 Tech Stack  
 
+- **Languages:**  
+  JavaScript (ES6+), TypeScript, HTML5, CSS3  
 
+- **Frameworks:**  
+  React, Next.js, Express.js  
+
+- **State Management:**  
+  Redux Toolkit, React Query, Zustand  
+
+- **Styling:**  
+  Tailwind CSS, SASS, Styled Components  
+
+- **Tools:**  
+  Webpack, Vite, Git, Figma  
+
+- **Animation:**  
+  GSAP, Three.js, Framer Motion  
+
+- **HTTP Clients:**  
+  Axios
 
 ---
 
@@ -29,6 +43,9 @@ I am a **Frontend Developer** with a passion for creating seamless, visually app
 - 🐦 [Twitter](https://twitter.com/your-profile)
 
 ---
+
+Feel free to check out my repositories and connect with me for collaboration or to discuss exciting opportunities!
+
 
 
 
