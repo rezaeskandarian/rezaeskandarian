@@ -9,26 +9,19 @@ I am a **Frontend Developer** with a passion for creating seamless, visually app
 
 ## 🚀 Tech Stack  
 
-- **Languages:**  
-  JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Languages:**  JavaScript (ES6+), TypeScript, HTML5, CSS3  
 
-- **Frameworks:**  
-  React, Next.js, Express.js  
+- **Frameworks:**  React, Next.js, Express.js  
 
-- **State Management:**  
-  Redux Toolkit, React Query, Zustand  
+- **State Management:**  Redux Toolkit, React Query, Zustand  
 
-- **Styling:**  
-  Tailwind CSS, SASS, Styled Components  
+- **Styling:**  Tailwind CSS, SASS, Styled Components  
 
-- **Tools:**  
-  Webpack, Vite, Git, Figma  
+- **Tools:**  Webpack, Vite, Git, Figma  
 
-- **Animation:**  
-  GSAP, Three.js, Framer Motion  
+- **Animation:**  GSAP, Three.js, Framer Motion  
 
-- **HTTP Clients:**  
-  Axios
+- **HTTP Clients:**  Axios
 
 ---
 
