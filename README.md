@@ -34,7 +34,8 @@ I am a **Frontend Developer** with a passion for creating seamless, visually app
 
 ### 📊 GitHub Stats:
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaeskandarian&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rezaeskandarian&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaeskandarian&layout=compact&theme=radical)
 
 ---
 ## 🔗 Connect With Me
