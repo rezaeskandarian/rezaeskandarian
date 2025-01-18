@@ -1,6 +1,6 @@
-# Hi there, I'm Reza Eskandarian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+# Hi there, I'm Reza Eskandarian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-### 🌟 Welcome to My GitHub Profile
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" /> Welcome to My GitHub Profile
 
 I am a **Frontend Developer** with a passion for creating seamless, visually appealing, and user-focused web applications. With expertise in modern frontend technologies, I specialize in building dynamic interfaces and delivering responsive, high-performance solutions.
 
